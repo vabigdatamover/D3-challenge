@@ -1,2 +1,2 @@
 # D3-challenge
-D3 homework assignements
+D3 homework assignement for Data Analytics Boot Camp
