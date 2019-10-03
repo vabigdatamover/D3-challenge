@@ -64,7 +64,8 @@ d3.csv("data.csv").then(function(Xdata) {
     .attr("cy", d => yLinearScale(d.healthcare))
 
     .attr("r", "15")
-    .attr("fill", "#B5D3E7")
+    // .attr("fill", "#B5D3E7")
+    .attr("fill", "#6495ED")
     .attr("opacity", ".5");
 
 
